@@ -7,4 +7,4 @@
 
 - 7 итог 49
 
-[Блок-схема](diagram.drawio.png)
+![Блок-схема](diagram.drawio.png)
