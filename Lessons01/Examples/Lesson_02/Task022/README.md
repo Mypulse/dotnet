@@ -8,7 +8,7 @@
 
     * (Теорема пифагора)
 
-![2D](https://disk.yandex.ru/i/XDlr6D3Yt2L6JQ)
+[Описание 2D](https://disk.yandex.ru/i/XDlr6D3Yt2L6JQ)
 
-![3D](https://disk.yandex.ru/i/h2_wuLN_616WAQ)
+[Описание 3D](https://disk.yandex.ru/i/h2_wuLN_616WAQ)
 
