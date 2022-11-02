@@ -7,11 +7,11 @@
 
 void Print(double x1, double y1, double x2, double y2, double res) // Задаем переменные для метода  "double"
 {
-    // A(1, 2); B(4, 5) = 6
-    /*string output = "|A(" + ax + ", " + ay + "); B(" + 
+    // A(1, 2); B(4, 5) = 6                                        // То, как должен выглядеть вывод на печать.
+    /*string output = "|A(" + ax + ", " + ay + "); B(" +           // -
                              bx + ", " + by + ")| = " +            // Определяем вывод на печать. Лучше испольщовать "АЛЬТЕРНАТИВНЫЙ СПОСОБ". (Строка 17) 
-                             //result;
-                             Math.Round(result, 2);
+                             //result;                             // -
+                             Math.Round(result, 2);                // -
     */
     double r = Math.Round(res, 2);                             // Сокращаем ответ до 2 знаков после запятой
     string output = $"A({x1}, {y2}); B({x2}, {y2}) = {r}";     // Определяем вывод на печать
