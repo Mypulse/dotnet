@@ -9,7 +9,7 @@ void Print(double x1, double y1, double x2, double y2, double res) // Задае
 {
     // A(1, 2); B(4, 5) = 6
     /*string output = "|A(" + ax + ", " + ay + "); B(" + 
-                             bx + ", " + by + ")| = " + 
+                             bx + ", " + by + ")| = " +            // Определяем вывод на печать. Лучше испольщовать "АЛЬТЕРНАТИВНЫЙ СПОСОБ". (Строка 17) 
                              //result;
                              Math.Round(result, 2);
     */
