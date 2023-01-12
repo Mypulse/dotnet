@@ -30,16 +30,15 @@ if (a < b)
 {
     max = b; 
     min = a;
-    Console.WriteLine($"Наибольшее значение {max}");
-    Console.WriteLine($"Наименьшее значение {min}");
 }
 else
 {
     max = a; 
     min = b;
-    Console.WriteLine($"Наибольшее значение {max}");
-    Console.WriteLine($"Наименьшее значение {min}");
 }
+
+Console.WriteLine($"Наибольшее значение = {max}");
+
 
 
 
